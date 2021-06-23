@@ -1,4 +1,4 @@
-#Faça um Programa
+#
 
 #============== DECLARAÇÕES E ATRIBUIÇÕES =====================
 
